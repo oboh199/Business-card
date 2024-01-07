@@ -23,8 +23,8 @@ body {
     text-align: center;
     background: #e7ecef;
     color: #2b2839;
-    border-bottom: 6px solid #c4d7f2;
-    border-radius:10px;
+    border-bottom: 10px solid #c4d7f2;
+    border-radius:12px;
     transition: .5s ease
         
     /*
@@ -68,7 +68,7 @@ the design of your business card, e.g.:
   }
   
 .container:hover .overlay {
-  opacity: 1;
+  opacity: 2;
 }
 
 .text {
